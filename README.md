@@ -1,7 +1,7 @@
 # CyberFoodSwamp
-[ICWSM'25] Cyber Food Swamps: Investigating the Impacts of Online-to-Offline Food Delivery Platforms on Healthy Food Choices
+This is the implementation code of repoducing the key results in our [ICWSM'25] Cyber Food Swamps: Investigating the Impacts of Online-to-Offline Food Delivery Platforms on Healthy Food Choices
 
-Please cite our paper if it is helpful.
+Please consider citing our paper if you find it helpful.
 ```
 @inproceedings{zhang2025cyber,
   title={Cyber Food Swamps: Investigating the Impacts of Online-to-Offline Food Delivery Platforms on Healthy Food Choices},
